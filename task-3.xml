@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<socialnetwork>
+  <userAccount>
+    <id system_type="Numeric" is_legacy="false">244617</id>
+    <name language="en" is_series_title="false">Arsen</name>
+    <email status="confirmed" privacy_level="hidden">somerandomaddress@gmail.com</email>
+    <regDate source_ip="Unknown" platform="web">2025-10-23</regDate>
+  </userAccount>
+  
+  <profile>
+    <bio character_count="4" contains_links="no">none</bio>
+    <profilePhotoURL last_updated="2025-10-23" content_type="image/jpeg">none</profilePhotoURL>
+    <location visibility="public" is_geotagged="false">Krakow</location>
+    <websiteURL rel_attribute="nofollow" is_external="true">facebook.com</websiteURL>
+  </profile>
+  
+  <networkConnections>
+    <followerCount active_last_30_days="100%" is_public="true">0</followerCount>
+    <followingCount mutual_count="0" list_category="user">1</followingCount>
+    <blockedUsers count="0" last_block_date="N/A">0</blockedUsers>
+    <groupMembership role="member" group_type="public">true</groupMembership>
+  </networkConnections>
+  
+  <postActivity>
+    <recentPostID type="text" is_promoted="false">1293187</recentPostID>
+    <timestamp timezone="UTC" granularity="minute">2025-10-23</timestamp>
+    <likeCount hidden_from_public="false" premium_reactions_count="0">0</likeCount>
+    <commentCount moderated="false" sentiment_score="0.5">1</commentCount>
+  </postActivity>
+  
+  <privacySettings>
+    <contentFiltering keywords_blocked_count="0" filter_strength="low">false</contentFiltering>
+    <dmSettings allowed_from="everyone" read_receipts="on">opened to everyone</dmSettings>
+    <dataSharingConsent third_party_ads="granted" analytics_opt_out="false">agreed</dataSharingConsent>
+    <twoFactorAuth enabled="false" method="none">off</twoFactorAuth>
+  </privacySettings>
+  
+  <systemData>
+    <lastLogin device_type="desktop" success="true">2025-10-23 9:00</lastLogin>
+    <totalDataUsageMB last_30_days="20" unit="MB">20</totalDataUsageMB>
+    <reportedAcc count_received="0" status="clean">false</reportedAcc>
+    <APIkeyAccess granted="false" rate_limit_per_hour="0">false</APIkeyAccess>
+  </systemData>
+</socialnetwork>
