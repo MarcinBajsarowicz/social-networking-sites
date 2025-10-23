@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<socialnetwork>
+  <userAccount>
+    <id>244617</id>
+    <name>Arsen</name>
+    <email>somerandomaddress@gmail.com</email>
+    <regDate>2025-10-23</regDate>
+  </userAccount>
+  <profile>
+    <bio>none</bio>
+    <profilePhotoURL>none</profilePhotoURL>
+    <location>Krakow</location>
+    <websiteURL>facebook.com</websiteURL>
+  </profile>
+  <networkConnections>
+    <followerCount>0</followerCount>
+    <followingCount>1</followingCount>
+    <blockedUsers>0</blockedUsers>
+    <groupMembership>true</groupMembership>
+  </networkConnections>
+  <postActivity>
+    <recentPostID>1293187</recentPostID>
+    <timestamp>2025-10-23</timestamp>
+    <likeCount>0</likeCount>
+    <commentCount>1</commentCount>
+  </postActivity>
+  <privacySettings>
+    <contentFiltering>false</contentFiltering>
+    <dmSettings>everyone</dmSettings>
+    <dataSharingConsent>agreed</dataSharingConsent>
+    <twoFactorAuth>off</twoFactorAuth>
+  </privacySettings>
+  <systemData>
+    <lastLogin>2025-10-23 09:00:00</lastLogin>
+    <totalDataUsageMB>20</totalDataUsageMB>
+    <reportedAcc>false</reportedAcc>
+    <apiKeyAccess>false</apiKeyAccess>
+  </systemData>
+</socialnetwork>
