@@ -1,0 +1,41 @@
+[
+    {
+    "Facebook" : {
+     "Type" : "Social Media",
+    "Comunication" : "False",
+    "Year of fundation": 2004,
+    "Years working" : "21,8",
+    }
+},
+{
+    "Messenger" : {
+        "Type" : "Communicator",
+        "Comunication" : "True",
+        "Year of fundation": 2011,
+        "Years working" : "14,2"
+
+    }
+
+},
+{"Snapchat" : {
+    "Type" : "Communicator",
+    "Comunication" : "True",
+    "Year of fundation": 2011,
+    "Years working" : "14,1"
+}},
+{
+    "Instagram" : {
+        "Type" : "Social Media",
+        "Comunication" : "True",
+        "Year of fundation": 2010,
+        "Years working" : "15,1"
+    }
+},
+{"X" : {
+    "Type" : "Social Media",
+    "Comunication" : "True",
+    "Year of fundation": 2006,
+    "Years working" : "19,7"
+}}
+
+]
