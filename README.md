@@ -33,3 +33,4 @@ Social networks can be categorized by their primary function:
 | Twitter        | 2006         | 0.44                   | Microblogging     |
 | Instagram      | 2010         | 2.35                   | Photo/Video Sharing|
 
+[Facebook logo](IMG/Facebook_logo.png)
