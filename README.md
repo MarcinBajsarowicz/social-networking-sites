@@ -1,10 +1,13 @@
 # social-networking-sites
 1. Filip Gosek
 2. filip21217
-3. Tasks: 1, 2, 6
+3. Tasks: 1, 6
 4. Marcin Bajsarowicz
 5. MarcinBajsarowicz
-6. 3, 4, 5
+6. Tasks: 4, 5
+7. Arsen Akmatov
+8. Cyr3ss
+9. Tasks: 2,3 
 
 
 ## Introduction
@@ -33,4 +36,6 @@ Social networks can be categorized by their primary function:
 | Twitter        | 2006         | 0.44                   | Microblogging     |
 | Instagram      | 2010         | 2.35                   | Photo/Video Sharing|
 
-[Facebook logo](IMG/Facebook_logo.png)
+
+
+![Facebook logo](IMG/Facebook_logo.png) ![Twitter logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553) ![instagram logo](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/E802/production/_89649395_instagram_logo_976.jpg)
